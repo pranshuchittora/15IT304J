@@ -1,0 +1,8 @@
+{
+  "name": "15IT304J",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pranshuchittora/15IT304J.git",
+  "author": "Pranshu Chittora <pranshuchittora17@gmail.com>",
+  "license": "MIT"
+}
